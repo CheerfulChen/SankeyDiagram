@@ -1,0 +1,14 @@
+The monthly income of the supermarket
+Income
+Jan 3192
+Feb 4134
+Mar 3210
+Apr 2874
+May 3396
+Jun 3216
+Jul 5436
+Aug 3216
+Sep 4320
+Oct 2880
+Nov 3552
+Dec 3456

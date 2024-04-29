@@ -1,0 +1,7 @@
+A college student's monthly expenses
+Expense
+Food 1343
+Transportation 65.7
+Shopping 860
+Entertainment 540
+Social 156
